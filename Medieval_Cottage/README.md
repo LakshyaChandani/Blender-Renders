@@ -1,6 +1,6 @@
 # Medieval Cottage Render
 
-![Medieval Cottage](Medieval_Cottage/render10 copy.png)
+![Medieval Cottage](render10 copy.png)
 
 This render depicts a rustic medieval cottage surrounded by lush greenery. The model was created in Blender, and the scene was rendered using the Cycles render engine.
 
